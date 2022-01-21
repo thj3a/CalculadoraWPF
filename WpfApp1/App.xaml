@@ -1,0 +1,11 @@
+﻿<Application x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+        <Color x:Key="GradientStopColor1">White</Color>
+        <Color x:Key="GradientStopColor2">White</Color>
+    </Application.Resources>
+</Application>
